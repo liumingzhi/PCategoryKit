@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'PCategoryKit_Example' do
+  pod 'PCategoryKit', :path => '../'
+
+  target 'PCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
