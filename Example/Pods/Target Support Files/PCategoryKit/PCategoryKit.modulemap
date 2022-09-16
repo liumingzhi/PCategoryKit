@@ -1,0 +1,6 @@
+framework module PCategoryKit {
+  umbrella header "PCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

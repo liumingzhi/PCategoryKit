@@ -1,0 +1,22 @@
+{
+  "name": "PCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of PCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liumingzhi/PCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liumingzhi": "liumingzhi.lmz@alibaba-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/liumingzhi/PCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PCategoryKit/Classes/**/*"
+}
