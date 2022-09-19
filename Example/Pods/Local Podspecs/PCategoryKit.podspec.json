@@ -1,6 +1,6 @@
 {
   "name": "PCategoryKit",
-  "version": "0.1.0",
+  "version": "1.1",
   "summary": "A short description of PCategoryKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/liumingzhi/PCategoryKit",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/liumingzhi/PCategoryKit.git",
-    "tag": "0.1.0"
+    "tag": "1.1"
   },
   "platforms": {
     "ios": "10.0"
